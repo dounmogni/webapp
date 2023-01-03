@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINER eazytraining (eazytrainingfr@gmail.com)
+MAINTAINER Franck-oumaga (franckoumaga@yahoo.com)
 RUN apt-get update
 RUN apt-get install -y nginx git
 EXPOSE 80
